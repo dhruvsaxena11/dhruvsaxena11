@@ -15,7 +15,7 @@ I am a Python programming and Data Science Enthusiast. I always wants to learn a
 <br/>  
 
 
-## My Skill 
+## My Skills 
 <tr><td valign="top" width="33%">
 
 
